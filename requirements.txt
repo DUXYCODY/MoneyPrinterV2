@@ -1,7 +1,6 @@
 wheel
 termcolor
 schedule
-TTS
 prettytable
 webdriver_manager
 selenium_firefox
@@ -14,3 +13,4 @@ assemblyai
 srt_equalizer
 undetected_chromedriver
 platformdirs
+TTS
